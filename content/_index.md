@@ -28,8 +28,8 @@ blocks:
   - type: latest
     count: 3
     show_more: true
-    background: true
-    section: posts
+    background: false
+    section: projects
     heading:
       title: News
 ---
