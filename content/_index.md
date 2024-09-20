@@ -33,5 +33,6 @@ blocks:
       surtitle: egege
       title: egeg
       text: egegegegegegegegegegegegegegeg
-    items: []
+    items:
+      - 2024/09/2024-09-20-post-1
 ---
