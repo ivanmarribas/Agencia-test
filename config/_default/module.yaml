@@ -6,5 +6,8 @@ imports:
   - path: github.com/hugolify/hugolify-theme-1
   - path: github.com/hugolify/hugolify-theme
 
+  - path: github.com/hugolify/hugolify-theme-posts
+  - path: github.com/hugolify/hugolify-theme-publications
+
   # CMS
   - path: github.com/hugolify/hugolify-decap-cms
