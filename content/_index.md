@@ -25,17 +25,9 @@ blocks:
     heading:
       surtitle: rrjrjrj
       title: rjrjrj
-  - type: selected-posts
-    section: posts
+  - type: latest
+    count: 3
     show_more: true
-    background: true
-    heading:
-      surtitle: wdwd
-      title: wdwdwd
-      text: wdwdwd
-  - type: datas
-    column: 3
-    show_gauge: true
-    show_color: true
     background: false
+    section: posts
 ---
