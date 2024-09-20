@@ -26,10 +26,10 @@ blocks:
       surtitle: rrjrjrj
       title: rjrjrj
   - type: latest
-    count: 3
+    count: 2
     show_more: true
     background: false
-    section: projects
+    section: posts
     heading:
       title: News
 ---
