@@ -25,4 +25,13 @@ blocks:
     heading:
       surtitle: rrjrjrj
       title: rjrjrj
+  - type: selected-posts
+    section: posts
+    show_more: true
+    background: true
+    heading:
+      surtitle: egege
+      title: egeg
+      text: egegegegegegegegegegegegegegeg
+    items: []
 ---
