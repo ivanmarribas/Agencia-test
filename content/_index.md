@@ -26,7 +26,7 @@ blocks:
       surtitle: rrjrjrj
       title: rjrjrj
   - type: latest
-    count: 2
+    count: 3
     show_more: true
     background: false
     section: posts
